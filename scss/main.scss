@@ -1,0 +1,10 @@
+$color--back: #000;
+$color--white: #fff;
+
+body {
+  background-color: $color--back;
+  h1 {
+    color: $color--white;
+    display: flex;
+  }
+}
